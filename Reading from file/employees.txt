@@ -1,0 +1,5 @@
+Jim - Salesman
+Oscar - Footballer
+John - Fighter
+Tom - Actor
+Michael - Dancer
